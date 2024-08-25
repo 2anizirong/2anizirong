@@ -6,7 +6,9 @@
 
 Welcome to my GitHub page! 🌟 
 
-While I am still developing my skills, I am dedicated to learning and improving every day.
+I'm dedicated to learning and improving every day.
+
+I am still developing my skills.
 
 ✧·····················*﹡❋ ❋ ❋﹡*·····················✧ ✧·····················*﹡❋ ❋ ❋﹡*·····················✧
 
