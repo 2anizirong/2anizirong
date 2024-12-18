@@ -1,10 +1,16 @@
 # ⛧꙳⭒꙳⛧＊⭑ ☁︎ WELCOME ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆
 
-<img src="https://github.com/2anizirong/2anizirong/assets/145183497/2698a704-7e2f-495a-9ea0-a3d86bcbc7b5" alt="미모티콘" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/2c5eb614-f773-45e3-8a23-1326a8223b21" alt="미모티콘" width="200" height="200">
+
 
 ✧·····················*﹡❋ ❋ ❋﹡*·····················✧ ✧·····················*﹡❋ ❋ ❋﹡*·····················✧
 
-Welcome to my GitHub page! 🌟 
+Welcome to my GitHub page! 🌟
+Hello! I'm Kim Ian, a developer who dreams of continuous growth.
+
+- Currently studying Node.js and Prisma ORM, challenging efficient backend development.
+- I want to become a developer who shines in problem solving and teamwork with curiosity and persistence in new technologies.
+- Precious feedback and enjoy your journey to progress.
 
 ✧·····················*﹡❋ ❋ ❋﹡*·····················✧ ✧·····················*﹡❋ ❋ ❋﹡*·····················✧
 
