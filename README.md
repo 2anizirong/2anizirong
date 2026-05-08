@@ -7,8 +7,8 @@
 ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝
 ```
 
-> **Cloud Security Engineer in the making.**
-백엔드 개발 경험을 기반으로 클라우드 보안의 세계로 나아가고 있습니다.
+> **Cloud Security Engineer**
+백엔드 개발 경험을 기반으로 클라우드 보안에 관심을 가지고 성장하고 있습니다.
 > 
 
 ```yaml
