@@ -47,6 +47,11 @@ interest:
 
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2anizirong&layout=compact)
+![2anizirong's GitHub stats](https://github-readme-stats.vercel.app/api?username=2anizirong&show_icons=true&theme=merko)
+
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" />
 </p>
