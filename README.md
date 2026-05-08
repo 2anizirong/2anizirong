@@ -11,18 +11,16 @@
 백엔드 개발 경험을 기반으로 클라우드 보안의 세계로 나아가고 있습니다.
 > 
 
-```yaml
-name: Kim
-role: Backend Developer → Cloud Security
-interest:
-  - 서비스 간 통신 보안
-  - 클라우드 리소스 가시성 확보
-  - DevSecOps & 컨테이너 보안
-```
+> [!NOTE]
+> **🧑‍💻 Ian Kim** · Backend Developer → Cloud Security
+>
+> 🔐 서비스 간 통신 보안
+> ☁️ 클라우드 리소스 가시성 확보
+> 🛡️ DevSecOps & 컨테이너 보안
 
 
 
- `$ ls ./tech-stack/`
+<img src="https://img.shields.io/badge/%24_ls_./tech--stack/-58a6ff?style=for-the-badge&labelColor=0d1117" />
 
 🖥️ Backend
 <p>
@@ -49,18 +47,7 @@ interest:
 
 
 
- `$ cat ./stats.log`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2anizirong&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2anizirong&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2anizirong&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6633&currStreakLabel=58a6ff" />
-</p>
-
-
- `$ echo $CONTACT`
+<img src="https://img.shields.io/badge/%24_echo_%24CONTACT-58a6ff?style=for-the-badge&labelColor=0d1117" />
 
 <p align="left">
   <a href="mailto:hope030327@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
