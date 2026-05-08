@@ -11,16 +11,18 @@
 백엔드 개발 경험을 기반으로 클라우드 보안의 세계로 나아가고 있습니다.
 > 
 
-> [!NOTE]
-> **🧑‍💻 Ian Kim** · Backend Developer → Cloud Security
->
-> 🔐 서비스 간 통신 보안
-> ☁️ 클라우드 리소스 가시성 확보
-> 🛡️ DevSecOps & 컨테이너 보안
+```yaml
+name: Ian Kim
+role: Backend Developer → Cloud Security
+interest:
+  - 서비스 간 통신 보안
+  - 클라우드 리소스 가시성 확보
+  - DevSecOps & 컨테이너 보안
+```
 
 
 
-<img src="https://img.shields.io/badge/%24_ls_./tech--stack/-58a6ff?style=for-the-badge&labelColor=0d1117" />
+### `$ ls ./tech-stack/`
 
 🖥️ Backend
 <p>
@@ -47,7 +49,7 @@
 
 
 
-<img src="https://img.shields.io/badge/%24_echo_%24CONTACT-58a6ff?style=for-the-badge&labelColor=0d1117" />
+### `$ echo $CONTACT`
 
 <p align="left">
   <a href="mailto:hope030327@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
