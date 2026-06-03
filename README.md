@@ -7,6 +7,14 @@
 ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝
 ```
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=2anizirong&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/2anizirong"
+    width="1100"
+    height="150"
+  />
+</a>
+
 > **Cloud Security Engineer**
 백엔드 개발 경험을 기반으로 클라우드 보안에 관심을 가지고 성장하고 있습니다.
 > 
